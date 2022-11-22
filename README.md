@@ -18,7 +18,7 @@ If you use these code or results in your research, please cite the following [pa
 
 ```
 @inproceedings{tang2022gloss,
-  title     =	{Gloss Semantic-Enhanced Network with Online Back-Translation for Sign Language Production},
+  title     = {Gloss Semantic-Enhanced Network with Online Back-Translation for Sign Language Production},
   author    = {Tang, Shengeng and Hong, Richang and Guo, Dan and Wang, Meng},
   booktitle = {Proceedings of the 30th ACM International Conference on Multimedia},
   pages     = {5630--5638},
